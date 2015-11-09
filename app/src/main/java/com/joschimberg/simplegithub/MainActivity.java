@@ -11,7 +11,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
     /*
-Comment bitch 23333jiuönfdscrvöjknsdcy
+Comment bitch 23333jiuönfdscrvöjknsdcyjdy joàx oà $d¨ys xàlk vàkl $pvvx$ f
      */
 
     @Override
@@ -27,6 +27,7 @@ Comment bitch 23333jiuönfdscrvöjknsdcy
             public void onClick(View view) {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
+                System.out.println("HALLO");
             }
         });
     }
